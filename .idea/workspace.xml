@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51c1c80d-1e7a-4a28-8ae6-87675ef1cb89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../autobots.host/autobots.host-infra/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../autobots.host/autobots.host-infra/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../autobots.host/autobots.host-infra/bot-deploy/deploy.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../discord.space/discord.space-bot-root/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/.gradle/4.10/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/.gradle/4.10/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-springboot-byexamples-banker/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/app/_lib/AutofocusDirective.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/app/_lib/HttpErrorInterceptor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/app/_lib/JwtInterceptor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/app/_lib/Utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/app/footer/footer.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/app/footer/footer.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/app/footer/footer.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/app/footer/footer.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/app/shared/shared.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/app/sidenav/sidenav.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/app/sidenav/sidenav.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/app/sidenav/sidenav.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/app/sidenav/sidenav.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/assets/bg-material-blue-dark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/assets/bg-material-grey-dark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/assets/bg-poly-dark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/assets/k8-logo-50x50-blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/assets/k8-logo-50x50-grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/assets/k8-logo-half.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/assets/k8-logo-half.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/assets/logo-inline-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/assets/logo-inline-green-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/assets/loog-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-ui/src/assets/loog-light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node-typescript-debug/src/DoWork.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node-typescript-debug/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php-dynamic-content/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php-dynamic-content/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php-dynamic-content/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php-dynamic-content/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php-dynamic-content/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php-dynamic-content/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-test-jpa-serializing/src/main/java/com/example/demo/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-test-jpa-serializing/src/main/java/com/example/demo/ChildrenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-test-jpa-serializing/src/main/java/com/example/demo/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-test-jpa-serializing/src/main/java/com/example/demo/ParentsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-test-jpa-serializing/src/main/java/com/example/demo/ParentsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-test-jpa-serializing/src/main/java/com/example/demo/ParentsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-test-jpa-serializing/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-admin" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-admin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/dataSources/8da68590-e938-46c5-9fa8-2b96c5e48ee8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/dataSources/8da68590-e938-46c5-9fa8-2b96c5e48ee8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_github_stephenc_jcip_jcip_annotations_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_api_api_common_1_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_api_client_google_api_client_1_27_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_api_gax_1_35_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_api_gax_httpjson_0_52_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_api_grpc_proto_google_common_protos_1_12_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_api_grpc_proto_google_iam_v1_0_12_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_apis_google_api_services_storage_v1_rev20181013_1_27_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_auth_google_auth_library_credentials_0_12_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_auth_google_auth_library_oauth2_http_0_12_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_cloud_google_cloud_core_1_53_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_cloud_google_cloud_core_http_1_53_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_cloud_google_cloud_storage_1_53_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_guava_guava_26_0_android.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_http_client_google_http_client_1_27_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_http_client_google_http_client_appengine_1_27_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_http_client_google_http_client_jackson2_1_27_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_oauth_client_google_oauth_client_1_27_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_util_3_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_mashape_unirest_unirest_java_1_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_microsoft_azure_adal4j_1_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_nimbusds_lang_tag_1_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_nimbusds_nimbus_jose_jwt_6_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_nimbusds_oauth2_oidc_sdk_5_24_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_rabbitmq_amqp_client_5_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_sendgrid_java_http_client_4_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_sendgrid_sendgrid_java_4_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_squareup_okhttp_logging_interceptor_2_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_squareup_okhttp_okhttp_2_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_squareup_okhttp_okhttp_ws_2_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__com_squareup_okio_okio_1_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__io_grpc_grpc_context_1_12_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__io_kubernetes_client_java_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__io_kubernetes_client_java_api_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__io_kubernetes_client_java_proto_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__io_opencensus_opencensus_api_0_15_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__io_opencensus_opencensus_contrib_http_util_0_15_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__io_sundr_builder_annotations_0_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__io_sundr_resourcecify_annotations_0_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__io_sundr_sundr_codegen_0_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__io_sundr_sundr_core_0_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__io_swagger_swagger_annotations_1_5_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__javax_activation_activation_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__javax_mail_mail_1_4_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__joda_time_joda_time_2_9_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_apache_commons_commons_collections4_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_apache_commons_commons_compress_1_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_apache_httpcomponents_httpasyncclient_4_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_nio_4_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_bouncycastle_bcpkix_jdk15on_1_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_bouncycastle_bcprov_ext_jdk15on_1_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_bouncycastle_bcprov_jdk15on_1_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_joda_joda_convert_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_json_json_20160212.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_projectlombok_lombok_1_18_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_springframework_amqp_spring_amqp_2_0_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_springframework_amqp_spring_rabbit_2_0_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_amqp_2_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_websocket_2_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_springframework_retry_spring_retry_1_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_springframework_spring_websocket_5_0_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/libraries/Gradle__org_threeten_threetenbp_1_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/k8exam-platform-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/k8exam-platform-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/manifests/deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/manifests/deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/META-INF/k8exam-platform-api.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/answers/Answer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/answers/Answer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/answers/AnswerCreate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/answers/AnswerCreate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/answers/AnswersRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/answers/AnswersRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/answers/AnswersService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/answers/AnswersService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/categories/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/configuration/AppConfig$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/configuration/AppConfig$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/configuration/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/configuration/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/security/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/security/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/users/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/users/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/users/UsersService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/classes/k8exam/platform/api/users/UsersService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/out/production/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/answers/Answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/answers/Answer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/answers/AnswerCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/answers/AnswerCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/answers/AnswersRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/answers/AnswersRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/answers/AnswersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/answers/AnswersService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/categories/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/configuration/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/configuration/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/questions/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/questions/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/questions/QuestionCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/questions/QuestionCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/questions/QuestionCreateAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/questions/QuestionCreateAnswer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/questions/QuestionsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/questions/QuestionsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/questions/QuestionsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/questions/QuestionsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/questions/QuestionsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/questions/QuestionsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/users/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/users/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/users/UsersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/java/k8exam/platform/api/users/UsersService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../k8exam/k8exam-platform-api/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ng-byexamples/ng-byexamples-observables/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ng-byexamples/ng-byexamples-observables/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ng-byexamples/ng-byexamples-observables/.idea/ng-byexamples-observables.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ng-byexamples/ng-byexamples-observables/.idea/ng-byexamples-observables.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ng-byexamples/ng-byexamples-observables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ng-byexamples/ng-byexamples-observables/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../seyvu/ng-data-analysis" beforeDir="false" afterPath="$PROJECT_DIR$/../../seyvu/ng-data-analysis" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/config.json" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="y" value="23" />
+    <option name="width" value="1790" />
+    <option name="height" value="2083" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="23" width="1790" height="2083" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15420023" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3299389" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
